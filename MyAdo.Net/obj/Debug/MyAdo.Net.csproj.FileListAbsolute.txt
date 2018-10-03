@@ -1,0 +1,24 @@
+c:\users\iaroslavpotushinsky\source\repos\MyAdo.Net\MyAdo.Net\bin\Debug\MyAdo.Net.exe.config
+c:\users\iaroslavpotushinsky\source\repos\MyAdo.Net\MyAdo.Net\bin\Debug\MyAdo.Net.exe
+c:\users\iaroslavpotushinsky\source\repos\MyAdo.Net\MyAdo.Net\bin\Debug\MyAdo.Net.pdb
+c:\users\iaroslavpotushinsky\source\repos\MyAdo.Net\MyAdo.Net\obj\Debug\MyAdo.Net.csprojResolveAssemblyReference.cache
+c:\users\iaroslavpotushinsky\source\repos\MyAdo.Net\MyAdo.Net\obj\Debug\MyAdo.Net.csproj.CoreCompileInputs.cache
+c:\users\iaroslavpotushinsky\source\repos\MyAdo.Net\MyAdo.Net\obj\Debug\MyAdo.Net.exe
+c:\users\iaroslavpotushinsky\source\repos\MyAdo.Net\MyAdo.Net\obj\Debug\MyAdo.Net.pdb
+c:\users\iaroslavpotushinsky\source\repos\MyAdo.Net\MyAdo.Net\bin\Debug\EntityFramework.dll
+c:\users\iaroslavpotushinsky\source\repos\MyAdo.Net\MyAdo.Net\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\iaroslavpotushinsky\source\repos\MyAdo.Net\MyAdo.Net\bin\Debug\EntityFramework.xml
+c:\users\iaroslavpotushinsky\source\repos\MyAdo.Net\MyAdo.Net\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\iaroslavpotushinsky\source\repos\MyAdo.Net\MyAdo.Net\obj\Debug\MyAdo.Net.csproj.CopyComplete
+E:\С#\курсы\5.4. MyAdo.Net\MyAdo.Net\bin\Debug\MyAdo.Net.exe.config
+E:\С#\курсы\5.4. MyAdo.Net\MyAdo.Net\bin\Debug\MyAdo.Net.exe
+E:\С#\курсы\5.4. MyAdo.Net\MyAdo.Net\bin\Debug\MyAdo.Net.pdb
+E:\С#\курсы\5.4. MyAdo.Net\MyAdo.Net\bin\Debug\EntityFramework.dll
+E:\С#\курсы\5.4. MyAdo.Net\MyAdo.Net\bin\Debug\EntityFramework.SqlServer.dll
+E:\С#\курсы\5.4. MyAdo.Net\MyAdo.Net\bin\Debug\EntityFramework.xml
+E:\С#\курсы\5.4. MyAdo.Net\MyAdo.Net\bin\Debug\EntityFramework.SqlServer.xml
+E:\С#\курсы\5.4. MyAdo.Net\MyAdo.Net\obj\Debug\MyAdo.Net.csprojResolveAssemblyReference.cache
+E:\С#\курсы\5.4. MyAdo.Net\MyAdo.Net\obj\Debug\MyAdo.Net.csproj.CoreCompileInputs.cache
+E:\С#\курсы\5.4. MyAdo.Net\MyAdo.Net\obj\Debug\MyAdo.Net.csproj.CopyComplete
+E:\С#\курсы\5.4. MyAdo.Net\MyAdo.Net\obj\Debug\MyAdo.Net.exe
+E:\С#\курсы\5.4. MyAdo.Net\MyAdo.Net\obj\Debug\MyAdo.Net.pdb
